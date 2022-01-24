@@ -31,7 +31,7 @@
   (pad "6" thru_hole circle (at 13.95 -0.05) (size 2.205 2.205) (drill 1.47) (layers *.Cu *.Mask) (tstamp 7260178b-8b27-434a-abb7-9eb3872b365d))
   (pad "7" thru_hole circle (at 13.95 -3.85) (size 2.205 2.205) (drill 1.47) (layers *.Cu *.Mask) (tstamp e6f5b95b-cfd2-4811-9871-541ed837a0d7))
   (pad "8" thru_hole circle (at 13.95 -7.65) (size 3.03 3.03) (drill 2.02) (layers *.Cu *.Mask) (tstamp 770ea708-7d8b-4af7-9e69-4b9f22448db7))
-  (model "${PHQ_3DMODEL_DIR}/phq_Module.3dshapes/i6A_standard.step"
+  (model "${PHQ_LIBRARY_DIR}/phq_Module.3dshapes/i6A_standard.step"
     (offset (xyz 16.5 -11.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

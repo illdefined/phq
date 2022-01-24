@@ -20,7 +20,7 @@
   (fp_rect (start -2 -2) (end 2 2) (layer "F.Fab") (width 0.1) (fill none) (tstamp be48b840-db8f-4e7a-a617-55b9eb11dfcf))
   (pad "1" smd roundrect (at -1.525 0) (size 1.5 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 5afe9d50-50af-430c-bb33-ac661a238e99))
   (pad "2" smd roundrect (at 1.525 0) (size 1.5 3.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1666666667) (tstamp 612e8c35-dc4e-4d96-81ad-646b79038705))
-  (model "${PHQ_3DMODEL_DIR}/phq_SMD.3dshapes/WE-LQS_4018.step"
+  (model "${PHQ_LIBRARY_DIR}/phq_SMD.3dshapes/WE-LQS_4018.step"
     (offset (xyz 0 0 0.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

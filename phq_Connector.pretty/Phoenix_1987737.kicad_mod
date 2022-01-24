@@ -16,7 +16,7 @@
   (pad "1" thru_hole circle (at -5 0) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask) (tstamp 30f1a4b8-648f-44b3-a9a5-ad1e3c515c03))
   (pad "2" thru_hole circle (at 0 0) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask) (tstamp 9ad33ef5-c505-490d-bf01-bf141e0a06c5))
   (pad "3" thru_hole circle (at 5 0) (size 1.9 1.9) (drill 1.3) (layers *.Cu *.Mask) (tstamp f99af723-fca8-4294-9442-ee6f5dbaab8e))
-  (model "${PHQ_3DMODEL_DIR}/phq_Connector.3dshapes/pxc_1987737.step"
+  (model "${PHQ_LIBRARY_DIR}/phq_Connector.3dshapes/pxc_1987737.step"
     (offset (xyz 0 -14 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 90 0))
