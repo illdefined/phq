@@ -1,6 +1,6 @@
 (footprint "ESP32-C3-MINI-1U" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EF01F1)
+  (tedit 61FAE25C)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -8) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -19,11 +19,11 @@
     ) (layer "F.Paste") (width 0.01) (fill solid) (tstamp fe6ee7b0-0b57-404d-829a-a352e68c8c63))
   (fp_rect (start -6.72 -7.02) (end 6.72 5.72) (layer "F.SilkS") (width 0.12) (fill none) (tstamp e6751ff1-9f63-445c-b980-fecc28927458))
   (fp_poly (pts
-      (xy -1.15 -1.15)
-      (xy -2.8 -1.15)
-      (xy -2.8 -2.14)
-      (xy -2.14 -2.8)
-      (xy -1.15 -2.8)
+      (xy -1.25 -1.25)
+      (xy -2.7 -1.25)
+      (xy -2.7 -2.1)
+      (xy -2.1 -2.7)
+      (xy -1.25 -2.7)
     ) (layer "F.Mask") (width 0.01) (fill solid) (tstamp cdb6a794-5f43-47b9-b8d1-078197ed0b35))
   (fp_rect (start -6.85 -7.15) (end 6.85 5.85) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2455232c-31a2-4f63-b359-e05268606d04))
   (fp_rect (start -6.6 -6.9) (end 6.6 5.6) (layer "F.Fab") (width 0.1) (fill none) (tstamp ea188a39-2a02-45bd-a598-6e0ba9f1ba00))
@@ -76,7 +76,6 @@
   (pad "47" smd rect (at -4 -4.9) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 365aaaad-247b-4c0d-a3b3-7043ef9b5858))
   (pad "48" smd rect (at -4.8 -4.9) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0e894316-2974-4a99-8ab8-b4c2291dd562))
   (pad "49_1" smd custom (at -1.975 -1.975) (size 0.6 0.6) (layers "F.Cu")
-    (zone_connect 0)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
