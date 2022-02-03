@@ -89,6 +89,10 @@
         (name "V_{in}" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
+      (pin passive line (at 0 -8.89 90) (length 2.54) hide
+        (name "EP" (effects (font (size 1.27 1.27))))
+        (number "8" (effects (font (size 1.27 1.27))))
+      )
       (pin power_in line (at -8.89 3.81 0) (length 2.54) hide
         (name "V_{in}" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
