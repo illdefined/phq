@@ -192,10 +192,10 @@
     (property "Value" "ADS7142" (id 1) (at 7.62 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "Package_DFN_QFN:Texas_R-PUQFN-N10" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/ads7142.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "ADS7142_0_1"
